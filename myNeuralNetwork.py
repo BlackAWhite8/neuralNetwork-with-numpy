@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Nov 14 00:10:55 2022
 
-@author: Roma
-"""
 
 # nn with n input and 4 hidden neurons(1 hidden layer)
 import numpy as np
